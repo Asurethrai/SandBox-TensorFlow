@@ -1,2 +1,2 @@
 # SandBox-TensorFlow
-Sandbox to try TensorFlow
+This is a sandbox repository for learning purpose on TensorFlow*;
